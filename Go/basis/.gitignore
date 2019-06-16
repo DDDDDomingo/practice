@@ -90,3 +90,10 @@ fabric.properties
 .idea/workspace.xml
 bin/
 pkg/
+
+### IntelliJ IDEA ###
+.idea/ workspace.xml
+.idea
+*.iws
+*.iml
+*.ipr
